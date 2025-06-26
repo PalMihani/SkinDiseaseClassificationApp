@@ -32,4 +32,4 @@ Design Tools: Figma
 
 3. The CNN model predicts the disease class.
 
-4. The result is displayed to the user instantly.
+4. The prediction is displayed to the user instantly.
