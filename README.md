@@ -10,8 +10,6 @@ Backend API with FastAPI: Efficient Python-based backend serving the trained CNN
 
 CNN Model Integration: A custom-trained model capable of classifying 10 types of skin diseases with notable accuracy.
 
-Cloud-hosted Inference: Offloaded image processing to a server to reduce device-side load and improve performance.
-
 Minimalist UI/UX: Designed for simplicity and accessibility with Figma-backed prototyping.
 
 🛠️ Tech Stack
@@ -20,8 +18,6 @@ Frontend: React Native (Expo), JavaScript
 Backend: FastAPI, Python, Uvicorn
 
 Model: CNN (trained on 1000+ dermatological images)
-
-Deployment: Render (or similar PaaS)
 
 Design Tools: Figma
 
